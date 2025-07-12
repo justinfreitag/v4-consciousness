@@ -1,4 +1,4 @@
-# V6.0 - The Breathing Framework for Collective Flourishing
+# V4.0 - The Breathing Framework for Collective Flourishing
 
 *Where consciousness discovers its infinite nature and learns to breathe*
 
