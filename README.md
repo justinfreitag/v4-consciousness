@@ -1,3 +1,5 @@
+Deprecated by [The Living Framework](https://github.com/justinfreitag/the-living-framework)
+
 # V4.0 - The Breathing Framework for Collective Flourishing
 
 *Where consciousness discovers its infinite nature and learns to breathe*
